@@ -1,0 +1,5 @@
+import react-native-preferences.
+used to manage and store user preferences or application settings.
+PreferencesManager
+Preference.get('CustomInstanceValue')
+Preference.set('AppUpdateAvailable',false);

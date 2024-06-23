@@ -1,0 +1,7 @@
+import : npm install react-native-navigation
+nnApp.js
+Navigation.events().registerAppLaunchedListener(() => pushSingleScreenApp());
+Navigation.js
+pushSingleScreenApp function
+Screen.js
+Navigation.push();

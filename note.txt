@@ -1,0 +1,9 @@
+Redux Thunk is a middleware for Redux that allows you to write action creators that return a function instead of an action. 
+This function can perform asynchronous operations, such as fetching data from an API, and dispatch actions based on the results.
+By handling asynchronous logic in thunks, you can keep your Redux actions pure and synchronous. 
+It simplifies complex state management tasks in React-Redux applications.
+
+Learn About 
+1. How we use Navigation in the Project.
+2. How we Preferences.
+3. How we use Async-Preferences.
